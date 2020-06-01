@@ -6,14 +6,13 @@
           <option name="editorGroup" value="*;*.vue" />
           <option name="fileNames">
             <array>
-              <option value="D:\Documents\2345截图\2345截图20190621174216.png" />
+              <option value="F:\work\imgs\145825zn1sxa8anrg11gt1.jpg" />
             </array>
           </option>
-          <option name="opacity" value="0.11" />
-          <option name="position" value="4" />
-          <option name="random" value="true" />
-          <option name="shrink" value="true" />
-          <option name="shrinkValue" value="50" />
+          <option name="opacity" value="0.21" />
+          <option name="position" value="0" />
+          <option name="positionOffset" value="0" />
+          <option name="shrinkValue" value="0" />
         </BackgroundConfiguration>
       </list>
     </option>
