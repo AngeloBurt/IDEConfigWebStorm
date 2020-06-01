@@ -7,12 +7,19 @@
           <option name="fileNames">
             <array>
               <option value="F:\work\imgs\145825zn1sxa8anrg11gt1.jpg" />
+              <option value="F:\work\imgs\145825zn1sxa8anrg11gt1.jpg" />
+              <option value="F:\work\imgs\1590553031_809613.jpg" />
+              <option value="F:\work\imgs\163004x27o5gbww13xowgw.jpg" />
+              <option value="F:\work\imgs\20151107191711_H5LwP.jpeg" />
+              <option value="F:\work\imgs\2cf5e0fe9925bc31c58bcbc05cdf8db1ca137090.jpg" />
             </array>
           </option>
-          <option name="opacity" value="0.21" />
-          <option name="position" value="0" />
+          <option name="position" value="4" />
           <option name="positionOffset" value="0" />
+          <option name="random" value="true" />
           <option name="shrinkValue" value="0" />
+          <option name="slideshow" value="true" />
+          <option name="slideshowPause" value="10000" />
         </BackgroundConfiguration>
       </list>
     </option>
