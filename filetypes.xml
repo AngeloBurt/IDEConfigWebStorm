@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="title.wpy" type="PLAIN_TEXT" />
       <mapping pattern="titletheme" type="PLAIN_TEXT" />
+      <mapping pattern="detailLive" type="Vue.js" />
       <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
   </component>
