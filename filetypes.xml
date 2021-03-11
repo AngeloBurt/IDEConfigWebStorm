@@ -5,6 +5,7 @@
       <mapping pattern="kmDialog.vue" type="PLAIN_TEXT" />
       <mapping pattern="titletheme" type="PLAIN_TEXT" />
       <mapping pattern="detailLive" type="Vue.js" />
+      <mapping pattern="flex" type="Vue.js" />
       <mapping pattern="kmDialog" type="Vue.js" />
       <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
