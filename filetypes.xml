@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="titletheme" type="PLAIN_TEXT" />
       <mapping pattern="title.wpy" type="PLAIN_TEXT" />
       <mapping pattern="kmDialog.vue" type="PLAIN_TEXT" />
-      <mapping pattern="titletheme" type="PLAIN_TEXT" />
       <mapping pattern="detailLive" type="Vue.js" />
       <mapping pattern="flex" type="Vue.js" />
       <mapping pattern="kmDialog" type="Vue.js" />
